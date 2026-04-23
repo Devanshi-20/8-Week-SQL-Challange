@@ -40,7 +40,8 @@ Danny has shared **3 key datasets** for this case study, all existing within the
 
 ## 🗂️ Entity Relationship Diagram
 
-![ER Diagram](./ER_Diagram.png)
+<img width="715" height="347" alt="ER Diagram" src="https://github.com/user-attachments/assets/ab1e2437-32f4-41ef-8ee8-c44bbc966c9a" />
+
 
 ---
 
@@ -123,4 +124,4 @@ CREATE TABLE members (
 
 ---
 
-*This case study is part of the [8 Week SQL Challenge](https://8weeksqlchallenge.com/) by Danny Ma.*
+
