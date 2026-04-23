@@ -8,7 +8,7 @@ Solving all 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallen
 
 | # | Case Study | Folder |
 |:-:|-----------|--------|
-| 1 | 🍜 Danny's Diner | [View Solution](./Case-Study#1-Dannys-Diner/) |
+| 1 | 🍜 Danny's Diner | [View Solution](./[Case%Study%#1-Dannys%Diner/] |
 | 2 | 🍕 Pizza Runner | [View Solution](./Case-Study-2-Pizza-Runner/) |
 | 3 | 🥑 Foodie-Fi | [View Solution](./Case-Study-3-Foodie-Fi/) |
 | 4 | 🏦 Data Bank | [View Solution](./Case-Study-4-Data-Bank/) |
