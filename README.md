@@ -20,7 +20,7 @@ Solving all 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallen
 ---
 
 ## Tools
-PostgreSQL · DB Fiddle · Git
+SSMS ·MySQL · Git
 
 ---
 
